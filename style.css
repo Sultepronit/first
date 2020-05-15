@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+}
+
+body {
+    font-size: 1.2em; 
+    padding: 5%;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: black;
+}
+
+.head-link {
+    font-size: 1.5em;
+    margin: 20px;
+    text-align: right;
+}
+
+ol {
+    padding-inline-start: 15px;
+}
+
+ul {
+    padding-inline-start: 10px;
+}
+
+img {
+    max-width: 99%;
+}
+
+.im400 {
+    width: 400px; 
+   
+}
+
+.im900 {
+    width: 900px;
+}
+
+.im100 {
+    width: 200px;
+}
+
+.bl-right {
+    float: right;
+}
+
+.zno1 {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-style: italic;
+    font-weight: bold;
+}
+
+.zno-w {
+color: red;
+font-style: italic;
+}
+
+.zno-r {
+    color: green;
+    font-weight: bold;
+}
+
+.coment1 {
+    font-style: italic;
+    color: blue;
+}
+
