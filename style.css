@@ -45,8 +45,12 @@ img {
     width: 900px;
 }
 
-.im100 {
+.im200 {
     width: 200px;
+}
+
+.im500 {
+    width: 500px;
 }
 
 .bl-right {
